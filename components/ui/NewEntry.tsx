@@ -81,7 +81,7 @@ export const NewEntry = () => {
                 variant='outlined'
                 onClick={() => setIsAddingEntry(true)}
             >
-
+                Agregar Entrada
             </Button>
                 )
             }
